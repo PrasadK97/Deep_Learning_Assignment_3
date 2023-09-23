@@ -1,5 +1,4 @@
-# Deep_Learning_Assignment_3
-## Recurrent Neural network to build a transliteration system using Aksharantar Dataset
+# Recurrent Neural network to build a transliteration system with and without attention mechanism using Aksharantar Dataset
 ### ABout the Aksharantar Dataset:
   It contains the langugaes spoken in India. Every language file contains pair of words in latin and Devnagari. Further every language data file is also splited into train,test and validation data files.
 
